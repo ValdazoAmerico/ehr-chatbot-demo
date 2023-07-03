@@ -7,10 +7,9 @@ from langchain.memory import ConversationBufferWindowMemory
 from langchain.prompts.prompt import PromptTemplate
 from langchain.chat_models import ChatOpenAI
 import datetime
-import os 
+import os
 
-os.environ["OPENAI_API_KEY"] = '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'
-
+os.environ["OPENAI_API_KEY"] = st.secrets["api_key"]
 
 today = datetime.datetime.now()
 today = today.strftime("%Y-%m-%d")
