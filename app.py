@@ -861,7 +861,7 @@ with st.expander("💬 Open comments"):
 
         if submit:
             date = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
-            db.insert(conn, [[name, date comment]])
+            db.insert(conn, [[name, date, comment]])
             if "just_posted" not in st.session_state:
                 st.session_state["just_posted"] = True
             st.experimental_rerun()
