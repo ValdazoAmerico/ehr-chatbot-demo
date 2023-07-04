@@ -11,7 +11,7 @@ import datetime
 
 today = datetime.datetime.now()
 today = today.strftime("%Y-%m-%d")
-memory = ConversationBufferWindowMemory(k=2)
+
 def ask_patient_hc(context, question):
   
 
@@ -30,8 +30,6 @@ AI:"""
   chat = ChatOpenAI(temperature=0,model_name="gpt-3.5-turbo", max_tokens=200)
   conversation = ConversationChain(
     llm=chat,
-    memory=memory,
-    verbose=True,
     prompt=prompt
 )
   response = conversation.predict(input=question)
