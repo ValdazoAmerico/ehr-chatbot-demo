@@ -2,7 +2,7 @@ from datetime import datetime
 
 import streamlit as st
 
-from utils import chart, db
+from utils import db
 
 import streamlit as st
 from streamlit_chat import message
