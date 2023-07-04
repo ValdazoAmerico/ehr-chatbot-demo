@@ -85,8 +85,6 @@ with col1:
                 else:
                     # output = generate_response(user_input)
                     uid = st.session_state.patient_uid[0]
-                    print("CONTEXT", st.session_state.patient_data[0])
-                    print("QUESTION", user_input)
                     output = ask_patient_hc(st.session_state.patient_data[0], user_input)
                     st.session_state.past.append(user_input)
                     st.session_state['generated'].append(output)
