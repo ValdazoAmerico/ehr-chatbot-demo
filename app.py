@@ -30,7 +30,7 @@ Human: {input}
 AI:"""
 
   prompt = PromptTemplate(input_variables=["history", "input"], template=chat_template)
-  chat = ChatOpenAI(temperature=0,model_name="gpt-3.5-turbo", max_tokens=200)
+  chat = ChatOpenAI(temperature=0,model_name="gpt-3.5-turbo", max_tokens=1000)
   conversation = ConversationChain(
     llm=chat,
     prompt=prompt
@@ -104,7 +104,7 @@ with col2:
 
 Fecha: 2021-05-15
 
-Nota médica: 48 años, previamente sana. 
+Nota médica: Previamente sana. 
 refiere cuadro clínico de 12 horas con cefalea y diarrea. refire que esta asintomatica a la hora de la consulta. 
 
 Diagnóstico: Cefalea
@@ -136,7 +136,7 @@ Reposo: 24 horas
 
 Fecha: 2021-06-30
 
-Nota médica: Paciente femenina de 48 años con clinica de dos dias de evolucion caracterizado por cefalea holocraneana, fiebre cuantificada en 38°c, refiere aparicion de los sintomas posterior a la aplicacion de la vacuna Astrazeneca 
+Nota médica: Paciente femenina con clinica de dos dias de evolucion caracterizado por cefalea holocraneana, fiebre cuantificada en 38°c, refiere aparicion de los sintomas posterior a la aplicacion de la vacuna Astrazeneca 
 
 Diagnóstico: Fiebre
 
@@ -192,7 +192,7 @@ Reposo: 24 horas
 
 Fecha: 2022-08-04
 
-Nota médica: PACIENTE DE 47 AÑOS.
+Nota médica:
 CONSULTA POR DOLOR DE GARGANTA, ODINOFAGIA, CONGESTIÓN NASAL. NIEGA OTROS SÍNTOMAS.
 INICIO HACE 72 HS.
 BUEN ESTADO GENERAL.
@@ -356,7 +356,7 @@ Fecha: 2022-04-10
 
 Nota médica: 
 
-Diagnóstico: INESP confirmado COVID19 x hisopado
+Diagnóstico: COVID19
 
 Destino final: En domicilio con instrucciones 
 
@@ -386,7 +386,7 @@ Fecha: 2022-05-02
 
 Nota médica: Paciente refiere tuvo covid19 el 06 de abril cumplio aislamiento por 10, actualmente con cefalea y adinamia post covid19
 
-Diagnóstico: PSICO Otros signos síntomas psicológicos mentales (477)
+Diagnóstico: Síntomas psicológicos mentales
 
 Destino final: En domicilio con instrucciones 
 
@@ -629,7 +629,7 @@ Fecha: 2023-04-23
 
 Nota médica: PACIENTE MASCULINO DE 38 AÑOS DE EDAD CON CUADRO CLINICO DE 1 SEMANA DE TOS HUMEDA, SIN FIEBRE.
 
-Diagnóstico: RESP Infeccion respiratoria aguda del tracto superior (348)
+Diagnóstico: Infeccion respiratoria aguda del tracto superior
 
 Destino final: En domicilio con instrucciones
 
