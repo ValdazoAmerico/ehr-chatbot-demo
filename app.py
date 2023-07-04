@@ -103,7 +103,7 @@ Fecha: 2021-05-15
 Nota médica: 48 años, previamente sana. 
 refiere cuadro clínico de 12 horas con cefalea y diarrea. refire que esta asintomatica a la hora de la consulta. 
 
-Diagnóstico: NEURO Cefalea (306)
+Diagnóstico: Cefalea
 
 Destino final: En domicilio con instrucciones 
 
@@ -118,7 +118,7 @@ Fecha: 2021-06-29
 Nota médica: EL DIA 28/6/21 SE COLOCA LA VACUNA DEL COVID 19 , EVOLUCIONA CON FIEBRE, ESCALOFRIOS, MALESTAR GENERAL . 
 SE INDICA ANALGESICOS.
 
-Diagnóstico: INESP Fiebre (338)
+Diagnóstico: Fiebre
 
 Destino final: En domicilio con instrucciones 
 
@@ -134,7 +134,7 @@ Fecha: 2021-06-30
 
 Nota médica: Paciente femenina de 48 años con clinica de dos dias de evolucion caracterizado por cefalea holocraneana, fiebre cuantificada en 38°c, refiere aparicion de los sintomas posterior a la aplicacion de la vacuna Astrazeneca 
 
-Diagnóstico: INESP Fiebre (338)
+Diagnóstico: Fiebre
 
 Destino final: En domicilio con instrucciones 
 
@@ -170,7 +170,7 @@ Fecha: 2022-07-06
 
 Nota médica: Paciente refiere dolor lumbar de 24 hs de evolucion. Niega alergias. 
 
-Diagnóstico: LOCOM Signos sintomas lumbares (495)
+Diagnóstico: Signos sintomas lumbares
 
 Destino final: En domicilio con instrucciones
 
@@ -301,7 +301,7 @@ Fecha: 2022-11-14
 
 Nota médica: pte masculino, madre refiere que desde ayer esta con tos y expectoracion mas fiebre que cede con paracetamol. se indica pautas de alarma y reposo
 
-Diagnóstico: RESP Infeccion respiratoria aguda del tracto superior (348)
+Diagnóstico: Infeccion respiratoria aguda del tracto superior
 
 Destino final: En domicilio con instrucciones
 
@@ -322,7 +322,7 @@ Fecha: 2022-04-05
 
 Nota médica: paciente cursando con picos febriles, tos seca, congestion nasal, rinorrea hialina, malestar general, en tratamiento con azitromicina. 
 
-Diagnóstico: RESP Gripe (340)
+Diagnóstico: Gripe
 
 Destino final: En domicilio con instrucciones 
 
@@ -338,7 +338,7 @@ Fecha: 2022-04-07
 
 Nota médica: px confirmado covid-19 positivo se realizo hisopado el dia 06/04 comenzo con sintomas el dia sabado 02/04 actualmente continua con fiebre 
 
-Diagnóstico: INESP confirmado COVID19 x hisopado
+Diagnóstico: COVID19
 
 Destino final: En domicilio con instrucciones 
 
@@ -366,7 +366,7 @@ Nota médica: MASCULINO 49 AÑOS
 EL FDS CURSO CON COVID19 POSITIVO 
 REFIERE CONGESTION NASAL , CANSANCIO
 
-Diagnóstico: INESP confirmado COVID19 x hisopado
+Diagnóstico: COVID19
 
 Destino final: En domicilio con instrucciones 
 
@@ -566,7 +566,7 @@ APP NIEGA
 NIEGA ALERGIA A MEDICAMENTOS
 CONSULTA POR PRESENTAR CUADRO CLINICO CARACTERIZADO POR CONGESTION NASAL, TOS SECA, DISFONIA, TEMP 38.7
 
-Diagnóstico: RESP Infeccion respiratoria aguda del tracto superior (348)
+Diagnóstico: Infeccion respiratoria aguda del tracto superior
 
 Destino final: En domicilio con instrucciones
 
@@ -590,7 +590,7 @@ Fecha: 2023-05-15
 
 Nota médica: Paciente de 41 años presenta congestion nasal moco amarillo , dolor en senos frontal. cefalea, astenia,disfonia y tos perruna esto inicia hace 7dias.Afebril .fue medicada con acemuk.
 
-Diagnóstico: RESP Laringitis traqueitis aguda (353)
+Diagnóstico: Laringitis traqueitis aguda
 
 Destino final: En domicilio con instrucciones
 
@@ -696,7 +696,7 @@ Fecha: 2023-05-05
 
 Nota médica: Paciente de sexo masculino de 38 años de edad que refiere presentar tos y odinofagia de < 24 hs de evolución. Indico tratamiento sintomático y reposo con pautas de alarma por 48 hs.
 
-Diagnóstico: RESP Infeccion respiratoria aguda del tracto superior (348)
+Diagnóstico: Infeccion respiratoria aguda del tracto superior
 
 Destino final: En domicilio con instrucciones
 
@@ -714,7 +714,7 @@ Fecha: 2023-05-11
 
 Nota médica: Paciente refiere congestion nasal, tos y fiebre de reciente aparicion. 
 
-Diagnóstico: RESP Infeccion respiratoria aguda del tracto superior (348)
+Diagnóstico: Infeccion respiratoria aguda del tracto superior
 
 Destino final: En domicilio con instrucciones
 
@@ -731,7 +731,7 @@ Fecha: 2023-06-12
 
 Nota médica: padre consulta por menor quien refiere tos y congestion
 
-Diagnóstico: RES Rinofaringitis aguda
+Diagnóstico: Rinofaringitis aguda
 
 Destino final: En domicilio con instrucciones
 
