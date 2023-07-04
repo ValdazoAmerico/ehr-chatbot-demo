@@ -800,7 +800,7 @@ Reposo: 24 horas
 ###
 
 """
-    patient_data = "No hay datos del paciente"
+    patient_data = None
     if st.session_state['patient_uid'] == ['1']:
         st.session_state.patient_data.append(patient_data1)
         patient_data = patient_data1
