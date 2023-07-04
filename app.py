@@ -11,9 +11,9 @@ import datetime
 
 today = datetime.datetime.now()
 today = today.strftime("%Y-%m-%d")
-
+memory = ConversationBufferWindowMemory(k=2)
 def ask_patient_hc(context, question):
-  memory = ConversationBufferWindowMemory(k=2)
+  
 
   default_template = f"""Eres un asistente médico inteligente encargado de proporcionar información relevante sobre la historia clínica de un paciente. Las consultas se encuentran organizadas en orden cronológico, de la más antigua a la más reciente, separadas por '###'. Ten en cuenta que las fechas siguen el formato YYYY-MM-DD y que la fecha de hoy es {today}. En la historia clínica, 'Nota médica' refiere a las anotaciones del médico que atendió la consulta, 'Diagnóstico' es el diagnóstico proporcionado por el médico, 'Motivos de consulta' son los síntomas o problemas mencionados por el paciente antes de su atención, 'Tratamiento' son las recomendaciones brindadas por el médico, 'Medicación / Prescripción médica' son los medicamentos recetados y 'Reposo' indica las horas recomendadas de descanso para el paciente. Si la pregunta no está relacionada con el paciente, responde con 'No lo sé'.
 
