@@ -3,7 +3,6 @@ from streamlit_chat import message
 import streamlit_scrollable_textbox as stx
 
 from langchain.chains import ConversationChain
-from langchain.memory import ConversationBufferWindowMemory
 from langchain.prompts.prompt import PromptTemplate
 from langchain.chat_models import ChatOpenAI
 import datetime
