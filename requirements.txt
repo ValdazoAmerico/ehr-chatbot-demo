@@ -1,5 +1,12 @@
+altair
+pandas
+google-api-python-client
+google-auth
+google-auth-httplib2
+protobuf
+click==8
 openai==0.27.8
 langchain==0.0.222
-streamlit==1.24.0
 streamlit-scrollable-textbox==0.0.3
+streamlit==1.24.0
 streamlit-chat==0.1.1
