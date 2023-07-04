@@ -1,5 +1,3 @@
-from datetime import datetime
-
 import streamlit as st
 
 from utils import db
@@ -49,7 +47,7 @@ AI:"""
 # in more random responses, 
 # while a lower temperature will result in more predictable responses.
 
-col1, col2, col3 = st.columns(3)
+col1, col2 = st.columns(2)
 # Create the navigation bar for switching between tabs
 with col1:
     st.title("ÜmaBot 👩‍⚕️\nOpenAI GPT-3.5 🤖 + Langchain ⛓️ + Streamlit ")
@@ -841,8 +839,7 @@ def space(num_lines=1):
 conn = db.connect()
 comments = db.collect(conn)
 
-with col3:
- with st.expander("💬 Open comments"):
+with st.expander("💬 Open comments"):
         st.write("**Comments:**")
         for index, entry in enumerate(comments.itertuples()):
             st.markdown(COMMENT_TEMPLATE_MD.format(entry.name, entry.date, entry.comment))
@@ -863,7 +860,8 @@ with col3:
         submit = form.form_submit_button("Add comment")
 
         if submit:
-            db.insert(conn, [[name, "fecha", comment]])
+	    date = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
+            db.insert(conn, [[name, date comment]])
             if "just_posted" not in st.session_state:
                 st.session_state["just_posted"] = True
             st.experimental_rerun()
