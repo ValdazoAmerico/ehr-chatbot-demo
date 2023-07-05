@@ -659,70 +659,145 @@ if check_password():
 	
 	###
 	"""
-	    patient_data5 = """Paciente de 82 años, de sexo Femenino.
+	    patient_data5 = """Paciente de 59 años, de sexo Masculino.
 
-	Fecha: 2021-05-25
+Fecha: 2022-05-18
 
-Nota médica: 
+Nota médica: Masculino presenta catarro, tos, equivalentes febriles, astenia. Sin medicación. Niega otra sintomatología. APP: LINFOMA ACO por postcx aorta ALergias: niega
 
-Diagnóstico: CARV Elevación de la presión arterial (329)
+Diagnóstico: Sospecha COVID19
 
-Destino final: En domicilio con instrucciones 
+Destino final: En domicilio con monitoreo
 
-Tratamiento: esta espearndo ala ambulancia. se hace reclamao al sector 
+Motivos de consulta: Sospecha de covid 
+
+Tratamiento: Tratamiento sintomático / medidas generales higiénico-dietéticas / pautas de alarma / reposo relativo / control en 72 horas 
+ 
 
 ###
 
-Fecha: 2021-08-10
+Fecha: 2022-05-23
 
-Nota médica: Paciente hipertensa cronica telmisartan 40mgx1xdia y amlodipina 5mg con episodios de elevacion de presion arterial. 
-Desde el sabado episodios de hipertension arterial. Ahora refiere 140-70.
+Nota médica: Paciente refiere concurrió a guardia de forma presencia hace 3 dias donde evaluaron y diagnosticaron neumonía, medicaron.
 
-Diagnóstico: CARV Elevacion de la presion arterial (329)
+Diagnóstico: Neumonía
 
-Destino final: En domicilio con instrucciones 
+Destino final: En domicilio con instrucciones
 
-Tratamiento: Continuar seguimiento con su cardiólogo de cabecera. 
+Motivos de consulta: Fiebre.Tos.odinofagia.Tiene moco 
+
+Tratamiento: continuar tratamiento indicado. 
+
+Reposo: 48 horas
+
+###
+
+Fecha: 2022-06-23
+
+Nota médica: refiere cuadro clínico de cefalea, sensación febril y mialgia, secundario a aplicación de vacuna anticovid19. niega otros sintomas asociados.
+
+Diagnóstico: Gripe
+
+Destino final: En domicilio con instrucciones
+
+Motivos de consulta: Fiebre.Dolor de cabeza.Fiebre o escalofríos.cefalea.No tiene tos 
+
+Tratamiento: indico reposo en casa 24 hrs 
 
 Reposo: 24 horas
 
 ###
 
-Fecha: 2022-01-07
+Fecha: 2022-08-11
 
-Nota médica: Paciente de 83 anos presenta vision borrosa , cefalea y ta 180/90( tomo 80 mg por dia de telmisartan).
+Nota médica: Refiere que tiene marcapasos y válvula cardiaca de reemplazo. se encuentra en estudio por bacteriemia. 
 
-Diagnóstico: CARV Elevación de la presión arterial (329)
-
-Destino final: Evaluación en rojo
-
-Motivos de consulta: Hipertensión.refiere hipertensión.Dolor torácico.cefalea.visión borrosa.paresia.#ALERTA 
-
-Tratamiento: evaluacion por medico 
-
-###
-
-Fecha: 2022-05-02
-
-Nota médica: ORDEN PARA PRESUROMETRIA
-
-Diagnóstico: OTRO Medicación prescripción renovación inyección (355)
+Diagnóstico: Fiebre
 
 Destino final: En domicilio con instrucciones
 
-Motivos de consulta: Dolor de cabeza.Hipertensión.cefalea.refiere hipertensión.No tiene tos.se siente mareado.cefalea de menos de 6hs de evolución.Sin antecedentes coronarios.no refiere antecedentes respiratorios.no refiere antecedentes renales.No refiere dolor torácico.TAS 89.TAD 89.sin registro de frecuencia cardíaca 
+Motivos de consulta: Fiebre.Fiebre o escalofríos.No tiene tos 
+
+Tratamiento: Reposo de 24 hs 
 
 ###
 
-Fecha: 2022-05-02
+Fecha: 2022-11-18
 
-Nota médica: HABLO CON FAMILIAR. REQUIERE ORDEN DE PRESUMETRIA QUE NUNCA LA RECIBIÓ. CARGAMOS NUEVAMENTE ORDEN DE PRESUMETRIA. 
+Nota médica: Refiere cólicos intestinales. Anticoagulado. 
 
-Diagnóstico: OTRO Medicación prescripción renovación inyección (355)
+Diagnóstico: Dolor abdominal
 
 Destino final: En domicilio con instrucciones
 
-Motivos de consulta: Hipertensión.refiere hipertensión.No refiere dolor torácico.cefalea.visión borrosa.paresia.#ALERTA 
+Motivos de consulta: Colicos 
+
+Tratamiento: Buscapina compuesta N cada 8 hs. 
+
+###
+
+Fecha: 2022-12-05
+
+Nota médica: DOLOR TORAXICO
+APP ICC--ENDOCARDITIS MARCAPASO
+
+Diagnóstico: Dolor
+
+Destino final: Indico concurrir a guardia externa
+
+Motivos de consulta: Dolor de pecho.Insuficiencia cardiaca.No refiere dolor torácico 
+
+Tratamiento: RECOMENDACIONES MEDICAS
+SI LOS SINTOMAS PERSISTEN ACUDIR A LA GUARDIA PARA ESTUDIOS 
+
+Reposo: 72 horas
+
+###
+
+Fecha: 2022-12-05
+
+Nota médica: DOLOR TORAXICO
+APP MARCAPASO
+
+Diagnóstico: Dolor
+
+Destino final: Indico concurrir a guardia externa
+
+Motivos de consulta: Dolor de pecho.Insuficiencia cardiaca.No refiere dolor torácico.No refiere dolor torácico 
+
+Tratamiento: ACUDIR A LA GUARDIA PARA ESTUDIOS 
+
+Reposo: 72 horas
+
+###
+
+Fecha: 2022-12-05
+
+Nota médica: Dolor precordial. Insuficiencia cardíaca crónica. 
+
+Diagnóstico: Insuficiencia cardíaca
+
+Destino final: En domicilio con instrucciones
+
+Motivos de consulta: Dolor de pecho.No refiere dolor torácico 
+
+Tratamiento: Consulta por Cardiólogia el día 07/2/22. Reposo por 72 horas. 
+
+Reposo: 72 horas
+
+###
+
+Fecha: 2023-01-07
+
+Nota médica: Paciente masculino con antecedente de insuficiencia cardiaca cronica en tratamiento, reposo por 72h
+
+Diagnóstico: Insuficiencia cardíaca
+
+Destino final: En domicilio con instrucciones
+
+Motivos de consulta: Dolor de pecho.Dolor torácico 
+
+Reposo: 72 horas
 
 ###
 
