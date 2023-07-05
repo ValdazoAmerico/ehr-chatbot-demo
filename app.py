@@ -96,6 +96,8 @@ with col1:
         else:
             return st.session_state['temp']
 
+    user_input = get_text()
+
     if user_input:
         if user_input == 'Hola!':
             st.session_state['past'] = []
