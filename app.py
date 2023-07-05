@@ -888,8 +888,8 @@ with st.expander("💬 Abrir comentarios"):
         submit = form.form_submit_button("Guardar")
 
         if submit:
-            date = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
-            db.insert(conn, [[name, date, comment]])
+            #date = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
+            db.insert(conn, [[name, today, comment]])
             if "just_posted" not in st.session_state:
                 st.session_state["just_posted"] = True
             st.experimental_rerun()
