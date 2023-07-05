@@ -9,8 +9,11 @@ import streamlit_scrollable_textbox as stx
 from langchain.chains import ConversationChain
 from langchain.prompts.prompt import PromptTemplate
 from langchain.chat_models import ChatOpenAI
+from langchain.memory import ConversationBufferWindowMemory
 import datetime
 
+if 'ai' not in st.session_state:
+        st.session_state['ai'] = []
 
 today = datetime.datetime.now()
 today = today.strftime("%Y-%m-%d")
@@ -31,13 +34,24 @@ AI:"""
 
   prompt = PromptTemplate(input_variables=["history", "input"], template=chat_template)
   chat = ChatOpenAI(temperature=0,model_name="gpt-3.5-turbo", max_tokens=1000)
+  memory = ConversationBufferWindowMemory(k=2)
+  if len(st.session_state.ai) == 1:
+     memory.save_context({"input": st.session_state.past[-1]}, {"output": st.session_state.ai[0]})
+  if len(st.session_state.ai) > 1:
+     memory.save_context({"input": st.session_state.past[-2]}, {"output": st.session_state.ai[-2]})
+     memory.save_context({"input": st.session_state.past[-1]}, {"output": st.session_state.ai[-1]})
+  
+  prompt = PromptTemplate(input_variables=["history", "input"], template=chat_template)
+
   conversation = ConversationChain(
     llm=chat,
-    prompt=prompt
-)
+    verbose=True,
+    memory=memory,
+    prompt=prompt)
   response = conversation.predict(input=question)
-
+  st.session_state.ai.append(response)
   return response
+
 
 
 
