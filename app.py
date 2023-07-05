@@ -33,7 +33,7 @@ Human: {input}
 AI:"""
 
   prompt = PromptTemplate(input_variables=["history", "input"], template=chat_template)
-  chat = ChatOpenAI(temperature=0,model_name="gpt-3.5-turbo", max_tokens=1000)
+  chat = ChatOpenAI(temperature=0,model_name="gpt-3.5-turbo", max_tokens=1500)
   memory = ConversationBufferWindowMemory(k=2)
   if len(st.session_state.ai) == 1:
      memory.save_context({"input": st.session_state.past[-1]}, {"output": st.session_state.ai[0]})
