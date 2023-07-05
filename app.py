@@ -659,198 +659,74 @@ if check_password():
 	
 	###
 	"""
-	    patient_data5 = """Paciente de 38 años, de sexo Masculino.
-	
-	Fecha: 2023-04-21
-	
-	Nota médica: REFIERE HACE 24 HS EN SU TRABAJO SE GOLPEO EL PIE DORSO IZQUIERDO. EDEMA, DOLOR LA MARCHA. FUE ALA GUARDIA Y LE REALIZARON RX DE PIE NO TIENE FRACTURA.
-	
-	Diagnóstico: Podalgia
-	
-	Destino final: En domicilio con instrucciones
-	
-	Motivos de consulta: Dolor de pie por golpe 
-	
-	Medicación / Prescripción médica: meloxicam+betametasona+asoc. BRONAX CORT comp.rec.x 20 Analgésico Antiinflam. 
-	
-	Reposo: 24 horas
-	
-	###
-	
-	Fecha: 2023-04-23
-	
-	Nota médica: PACIENTE MASCULINO DE 38 AÑOS DE EDAD CON CUADRO CLINICO DE 1 SEMANA DE TOS HUMEDA, SIN FIEBRE.
-	
-	Diagnóstico: Infeccion respiratoria aguda del tracto superior
-	
-	Destino final: En domicilio con instrucciones
-	
-	Motivos de consulta: Tos.Congestión Nasal.Tos.Tiene moco.Tos con moco.Tos aguda.Sin antecedentes coronarios.no refiere antecedentes respiratorios.no refiere antecedentes renales 
-	
-	Medicación / Prescripción médica: ambroxol+butamirato+clorfeniram. MUCO DOSODOS jbe.x 150 ml Antitusivo Expectorante / acetilcisteína TOFLUX 600 mg sob.x 10 Mucolítico 
-	
-	Tratamiento: MUCOLITICO, ANTITUSIVO 
-	
-	###
-	
-	Fecha: 2023-05-03
-	
-	Nota médica: TOS 
-	
-	Diagnóstico: Tos
-	
-	Destino final: En domicilio con instrucciones
-	
-	Motivos de consulta: Tos.Dolor de garganta.Congestión Nasal.Tos.odinofagia.Tos con moco.Tos subaguda.Sin antecedentes coronarios.no refiere antecedentes respiratorios.no refiere antecedentes renales 
-	
-	Tratamiento: NEBU CON BUDESONIDE HIPERSOL CONTROL SEGUN EVOLUCION 
-	
-	Reposo: 24 horas
-	
-	###
-	
-	Fecha: 2023-05-04
-	
-	Nota médica: REFIERE ODINOFAGIA DE 1 DIA DE EVOLUCION
-	
-	Diagnóstico: Amigdalitis
-	
-	Destino final: En domicilio con instrucciones
-	
-	Motivos de consulta: Dolor de garganta.odinofagia.Tos.Sin antecedentes coronarios.no refiere antecedentes respiratorios.no refiere antecedentes renales 
-	
-	Medicación / Prescripción médica: desloratadina+betametasona FRENALER CORT comp.rec.x 10 Antialérgico Antiinflamatorio 
-	
-	Tratamiento: FRENALER CORT IBU600 MG 
-	
-	Reposo: 24 horas
-	
-	###
-	
-	Fecha: 2023-05-05
-	
-	Nota médica: Paciente de 38 años que consulta por tos, dolor de garganta y odinofagia. No refiere fiebre. Se encuentra en BEG. Lucido y vigil. Colabora con interrogatorio. No se entrecorta la voz ni refiere dificultad respiratoria. No refiere perdida de gusto ni olfato. Vacunado para COVID
-	
-	Diagnóstico: Infección aguda de vías respiratorias superiores
-	
-	Destino final: En domicilio con instrucciones
-	
-	Motivos de consulta: Tos.Dolor de garganta.Tos.odinofagia.Tos seca.Tos aguda.Sin antecedentes coronarios.no refiere antecedentes respiratorios.no refiere antecedentes renales 
-	
-	Tratamiento: Se indica si
-	-Fiebre/dolores: Paracetamol 1 g c/8 hs
-	-Tos: Bisolvon jarabe 5 ml c/8 hs 
-	-Congestión nasal: Acemuk 600 mg 1 tab c/24 hs
-	Se dan pautas claras de cuidado y de alarma para consulta por guardia: empeoramiento o persistencia de los síntomas, dificultad respiratoria, palabra entrecortada. 
-	 
-	
-	Reposo: 24 horas
-	
-	###
-	
-	Fecha: 2023-05-05
-	
-	Nota médica: Paciente de sexo masculino de 38 años de edad que refiere presentar tos y odinofagia de < 24 hs de evolución. Indico tratamiento sintomático y reposo con pautas de alarma por 48 hs.
-	
-	Diagnóstico: Infeccion respiratoria aguda del tracto superior
-	
-	Destino final: En domicilio con instrucciones
-	
-	Motivos de consulta: Tos.Dolor de garganta.Tos.odinofagia.Tos seca.Tos aguda.Sin antecedentes coronarios.no refiere antecedentes respiratorios.no refiere antecedentes renales.Tos.odinofagia.Tos seca.Tos aguda.Sin antecedentes coronarios.no refiere antecedentes respiratorios.no refiere antecedentes renales 
-	
-	Tratamiento: - Tos: Athos jarabe 7,5 ml c/8 hs
-	- Dolor de garganta: Ernex spray 2 aplicaciones cada 2 hs
-	 
-	
-	Reposo: 48 horas
-	
-	###
-	
-	Fecha: 2023-05-11
-	
-	Nota médica: Paciente refiere congestion nasal, tos y fiebre de reciente aparicion. 
-	
-	Diagnóstico: Infeccion respiratoria aguda del tracto superior
-	
-	Destino final: En domicilio con instrucciones
-	
-	Motivos de consulta: Tos.Fiebre.Congestión Nasal.Tos.Fiebre o escalofríos.Tiene moco.Tos con moco.Tos subaguda.Sin antecedentes coronarios 
-	
-	Tratamiento: Sintomatico / Reposo 48 hs / Pautas higienico dieteticas / Pautas de alarma 
-	Control en 24 - 48 hs 
-	
-	Reposo: 48 horas
-	
-	###
-	
-	Fecha: 2023-06-12
-	
-	Nota médica: padre consulta por menor quien refiere tos y congestion
-	
-	Diagnóstico: Rinofaringitis aguda
-	
-	Destino final: En domicilio con instrucciones
-	
-	Motivos de consulta: Tos.Congestión Nasal.Tos.odinofagia.Tiene moco.Tos con moco.Tos aguda.Sin antecedentes coronarios.no refiere antecedentes respiratorios.no refiere antecedentes renales 
-	
-	Medicación / Prescripción médica: hedera helix ATHOS jbe.x 100 ml Antitusivo Mucolítico / desloratadina+betametasona HEXALER CORT comp.rec.x 10 Antialérgico Antiinflamatorio / paracetamol TAFIROL comp.x 30 Analgésico Antifebril 
-	
-	Tratamiento: reposo en domicilio, tafirol cada 8 horas, hexaler cort cada 8 horas, athos 5ml cada 8 horas 
-	
-	Reposo: 48 horas
-	
-	###
-	
-	Fecha: 2023-06-29
-	
-	Nota médica: Paciente de sexo masculino de 38 años de edad que refiere presentar vómitos y diarrea de < 24 hs de evolución. Indico tratamiento sintomático y reposo con pautas de alarma por 24 hs.
-	
-	
-	Diagnóstico: Gastroenteritis
-	
-	Destino final: En domicilio con instrucciones
-	
-	Motivos de consulta: Diarrea.Vómitos.nauseas/vómitos.diarrea.No tiene tos.Sin antecedentes coronarios.Tiene nauseas o vómitos desede hace menos de 1 semana.tolera liquidos.diarrea menos de 1 semana de evolución.Menos de 6 deposiciones diarias.materia fecal sin sangre.deposiciones líquidas.no refiere antecedentes respiratorios.no refiere antecedentes renales 
-	
-	Tratamiento: - Mantener buena hidratación tomando mucha agua en pequeñas cantidades (hasta 3L por día).
-	- Dieta: EVITAR fritos, grasas, salsas, picantes, mate, cafe, alcohol, gaseosas, chocolates. COMER pollo a la plancha, arroz, verduras hervidas, gelatina, tostadas. 
-	- Dolor abdominal: buscapina o sertal simple 1 comp c/8 hs
-	- Diarrea: Crema de bismuto 2 cucharadas soperas c/4 hs
-	- Náuseas: Reliveran 1 comp sublingual c/8 hs
-	 
-	
-	Reposo: 24 horas
-	
-	###
-	
-	Fecha: 2023-06-30
-	
-	Nota médica: PACIENTE DE 38 AÑOS. NO SE VE LA IMAGEN.
-	CONSULTA POR DOLOR ABDOMINAL TIPO RETORCIJÓN, DIARREA 5 EPISODIOS. NIEGA OTROS SÍNTOMAS.
-	BUEN ESTADO GENERAL.
-	INICIO HACE APROX 36 HS. SE ENCUENTRA EN TRATAMIENTO CON BUSCAPINA.
-	NIEGA COMIDA COPIOSA PREVIA.
-	APP: NIEGA. MEDIC HABITUAL: NIEGA. NIEGA ALERGIAS.
-	
-	
-	Diagnóstico: Dolor abdominal
-	
-	Destino final: En domicilio con instrucciones
-	
-	Motivos de consulta: Dolor de abdomen.Diarrea.diarrea.No tiene tos.Sin antecedentes coronarios.diarrea menos de 1 semana de evolución.Menos de 6 deposiciones diarias.materia fecal sin sangre.deposiciones líquidas.no refiere antecedentes respiratorios.no refiere antecedentes renales 
-	
-	Tratamiento: CONTINUAR IGUAL MEDICACIÓN.
-	HIDRATACIÓN ABUNDANTE CON AGUA MINERAL.
-	DIETA ASTRINGENTE HIPOGRASA.
-	REPOSO 24 HS
-	NUEVA CONSULTA EN 24 HS
-	PAUTAS DE ALARMA. 
-	
-	Reposo: 24 horas
-	
-	###
-	
-	"""
+	    patient_data5 = """Paciente de 82 años, de sexo Femenino.
+
+	Fecha: 2021-05-25
+
+Nota médica: 
+
+Diagnóstico: CARV Elevación de la presión arterial (329)
+
+Destino final: En domicilio con instrucciones 
+
+Tratamiento: esta espearndo ala ambulancia. se hace reclamao al sector 
+
+###
+
+Fecha: 2021-08-10
+
+Nota médica: Paciente hipertensa cronica telmisartan 40mgx1xdia y amlodipina 5mg con episodios de elevacion de presion arterial. 
+Desde el sabado episodios de hipertension arterial. Ahora refiere 140-70.
+
+Diagnóstico: CARV Elevacion de la presion arterial (329)
+
+Destino final: En domicilio con instrucciones 
+
+Tratamiento: Continuar seguimiento con su cardiólogo de cabecera. 
+
+Reposo: 24 horas
+
+###
+
+Fecha: 2022-01-07
+
+Nota médica: Paciente de 83 anos presenta vision borrosa , cefalea y ta 180/90( tomo 80 mg por dia de telmisartan).
+
+Diagnóstico: CARV Elevación de la presión arterial (329)
+
+Destino final: Evaluación en rojo
+
+Motivos de consulta: Hipertensión.refiere hipertensión.Dolor torácico.cefalea.visión borrosa.paresia.#ALERTA 
+
+Tratamiento: evaluacion por medico 
+
+###
+
+Fecha: 2022-05-02
+
+Nota médica: ORDEN PARA PRESUROMETRIA
+
+Diagnóstico: OTRO Medicación prescripción renovación inyección (355)
+
+Destino final: En domicilio con instrucciones
+
+Motivos de consulta: Dolor de cabeza.Hipertensión.cefalea.refiere hipertensión.No tiene tos.se siente mareado.cefalea de menos de 6hs de evolución.Sin antecedentes coronarios.no refiere antecedentes respiratorios.no refiere antecedentes renales.No refiere dolor torácico.TAS 89.TAD 89.sin registro de frecuencia cardíaca 
+
+###
+
+Fecha: 2022-05-02
+
+Nota médica: HABLO CON FAMILIAR. REQUIERE ORDEN DE PRESUMETRIA QUE NUNCA LA RECIBIÓ. CARGAMOS NUEVAMENTE ORDEN DE PRESUMETRIA. 
+
+Diagnóstico: OTRO Medicación prescripción renovación inyección (355)
+
+Destino final: En domicilio con instrucciones
+
+Motivos de consulta: Hipertensión.refiere hipertensión.No refiere dolor torácico.cefalea.visión borrosa.paresia.#ALERTA 
+
+###
+
+"""
 	    patient_data = None
 	    if st.session_state['patient_uid'] == ['1']:
 	        st.session_state.patient_data.append(patient_data1)
