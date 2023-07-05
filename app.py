@@ -78,11 +78,23 @@ with col1:
     if 'patient_data' not in st.session_state:
         st.session_state['patient_data'] = []
 
-    def get_text():
-        input_text = st.text_input("You: ", "Hola!", key="input")
-        return input_text 
+    if "temp" not in st.session_state:
+        st.session_state["temp"] = ""
+    if "user_input" not in st.session_state:
+        st.session_state["user_input"] = []
 
-    user_input = get_text()
+    def clear_text():
+       st.session_state["temp"] = st.session_state["text"]
+       st.session_state["text"] = ""
+
+
+    def get_text():
+        input_text = st.text_input("You: ", "", key="text",on_change=clear_text)
+        st.session_state['user_input'].append(input_text)
+        if st.session_state['temp'] == "":
+           return "Hola!"
+        else:
+            return st.session_state['temp']
 
     if user_input:
         if user_input == 'Hola!':
