@@ -867,25 +867,25 @@ def space(num_lines=1):
 conn = db.connect()
 comments = db.collect(conn)
 
-with st.expander("💬 Open comments"):
-        st.write("**Comments:**")
+with st.expander("💬 Abrir comentarios"):
+        st.write("**Comentarios:**")
         for index, entry in enumerate(comments.itertuples()):
             st.markdown(COMMENT_TEMPLATE_MD.format(entry.name, entry.date, entry.comment))
 
             is_last = index == len(comments) - 1
             is_new = "just_posted" in st.session_state and is_last
             if is_new:
-              st.success("☝️ Your comment was successfully posted.")
+              st.success("☝️ Tu comentario fue guardado exitosamente.")
  
         space(2)
 
 		# Insert comment
 
-        st.write("**Add your own comment:**")
+        st.write("**Dejá tu comentario:**")
         form = st.form("comment")
-        name = form.text_input("Name")
-        comment = form.text_area("Comment")
-        submit = form.form_submit_button("Add comment")
+        name = form.text_input("Nombre")
+        comment = form.text_area("Comentario")
+        submit = form.form_submit_button("Guardar")
 
         if submit:
             date = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
