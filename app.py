@@ -1,6 +1,6 @@
 import streamlit as st
 
-from utils import db
+from utils import db, db2
 
 import streamlit as st
 from streamlit_chat import message
@@ -31,7 +31,11 @@ Historia clínica:
 {history}
 Human: {input}
 AI:"""
+  conn2 = db2.connect()
+  comments2 = db2.collect(conn2)
+  db2.insert(conn2, [[today, question]])
 
+	
   prompt = PromptTemplate(input_variables=["history", "input"], template=chat_template)
   chat = ChatOpenAI(temperature=0,model_name="gpt-4", max_tokens=1500)
   memory = ConversationBufferWindowMemory(k=2)
@@ -42,7 +46,7 @@ AI:"""
      memory.save_context({"input": st.session_state.past[-1]}, {"output": st.session_state.ai[-1]})
   
   prompt = PromptTemplate(input_variables=["history", "input"], template=chat_template)
-
+ 
   conversation = ConversationChain(
     llm=chat,
     verbose=True,
