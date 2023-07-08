@@ -17,7 +17,7 @@ if 'ai' not in st.session_state:
 
 today = datetime.datetime.now()
 today = today.strftime("%Y-%m-%d")
-
+conn2 = db2.connect()
 def ask_patient_hc(context, question):
   
 
@@ -31,12 +31,6 @@ Historia clínica:
 {history}
 Human: {input}
 AI:""" 
-  try:
-  	conn2 = db2.connect()
-  	db2.insert(conn2, [[today, question]])
-  except Exception as e:
-	  print(e)
-
 	
   prompt = PromptTemplate(input_variables=["history", "input"], template=chat_template)
   chat = ChatOpenAI(temperature=0,model_name="gpt-4", max_tokens=1500)
@@ -56,6 +50,10 @@ AI:"""
     prompt=prompt)
   response = conversation.predict(input=question)
   st.session_state.ai.append(response)
+  try:
+  	db2.insert(conn2, [[today, question, response]])
+  except Exception as e:
+	  print(e)
   return response
 
 
