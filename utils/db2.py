@@ -61,7 +61,7 @@ def collect(gsheet_connector) -> pd.DataFrame:
         gsheet_connector.values()
         .get(
             spreadsheetId=SPREADSHEET_ID,
-            range="!A:B",
+            range="!A:C",
         )
         .execute()
     )
@@ -77,7 +77,7 @@ def insert(gsheet_connector, row) -> None:
         gsheet_connector.values()
         .append(
             spreadsheetId=SPREADSHEET_ID,
-            range="!A:B",
+            range="!A:C",
             body=dict(values=row),
             valueInputOption="USER_ENTERED",
         )
