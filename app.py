@@ -30,10 +30,12 @@ Historia clínica:
   chat_template = default_template + """Historial de chat:
 {history}
 Human: {input}
-AI:"""
-  conn2 = db2.connect()
-  comments2 = db2.collect(conn2)
-  db2.insert(conn2, [[today, question]])
+AI:""" 
+  try:
+  	conn2 = db2.connect()
+  	db2.insert(conn2, [[today, question]])
+  except Exception as e:
+	  print(e)
 
 	
   prompt = PromptTemplate(input_variables=["history", "input"], template=chat_template)
