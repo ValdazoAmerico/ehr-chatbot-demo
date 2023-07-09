@@ -1,6 +1,7 @@
 import streamlit as st
 
-from utils import db, db2
+from utils import db
+#from utils import db2
 
 import streamlit as st
 from streamlit_chat import message
@@ -17,7 +18,7 @@ if 'ai' not in st.session_state:
 
 today = datetime.datetime.now()
 today = today.strftime("%Y-%m-%d")
-conn2 = db2.connect()
+#conn2 = db2.connect()
 def ask_patient_hc(context, question):
   
 
@@ -50,10 +51,10 @@ AI:"""
     prompt=prompt)
   response = conversation.predict(input=question)
   st.session_state.ai.append(response)
-  try:
-  	db2.insert(conn2, [[today, question, response]])
-  except Exception as e:
-	  print(e)
+  #try:
+  	#db2.insert(conn2, [[today, question, response]])
+  #except Exception as e:
+	  #print(e)
   return response
 
 
