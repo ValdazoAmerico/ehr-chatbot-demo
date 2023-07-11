@@ -12,7 +12,6 @@ from langchain.chat_models import ChatOpenAI
 from langchain.memory import ConversationBufferWindowMemory
 import datetime
 import os
-openai_key = os.environ.get("OPENAI_API_KEY")
 
 if 'patient_uid' not in st.session_state:
 	st.session_state['patient_uid'] = []
@@ -35,7 +34,7 @@ def ask_patient_hc(context, question):
 											AI:"""
 
 	prompt = PromptTemplate(input_variables=["history", "input"], template=chat_template)
-	chat = ChatOpenAI(temperature=0, max_tokens=1500, openai_api_key=openai_key, client=None)
+	chat = ChatOpenAI(temperature=0, max_tokens=1500, model="gpt-4")
 	memory = ConversationBufferWindowMemory(k=2)
 	if len(st.session_state.ai) == 1:
 		memory.save_context({"input": st.session_state.past[-1]}, {"output": st.session_state.ai[0]})
