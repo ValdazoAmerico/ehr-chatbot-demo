@@ -1,0 +1,66 @@
+Paciente de 49 años, de sexo Femenino.
+
+Fecha: 2021-05-15
+
+Nota médica: Previamente sana. 
+refiere cuadro clínico de 12 horas con cefalea y diarrea. refire que esta asintomatica a la hora de la consulta. 
+
+Diagnóstico: Cefalea
+
+Destino final: En domicilio con instrucciones 
+
+Tratamiento: solicita certificado por 24 horas ya que ayer no fue a trabajar por cefalea y no alimentacion por todo el dia. indica que tiene mal patron de alimentacion y que ayer no comio nada. 
+
+Reposo: 24 horas
+
+###
+
+Fecha: 2021-06-29
+
+Nota médica: EL DIA 28/6/21 SE COLOCA LA VACUNA DEL COVID 19 , EVOLUCIONA CON FIEBRE, ESCALOFRIOS, MALESTAR GENERAL . 
+SE INDICA ANALGESICOS.
+
+Diagnóstico: Fiebre
+
+Destino final: En domicilio con instrucciones 
+
+Tratamiento: PARACETAMOL 1 GR C6H 
+IBUPROFENO 400 C12H . 
+    
+
+Reposo: 24 horas
+
+###
+
+Fecha: 2021-06-30
+
+Nota médica: Paciente femenina con clinica de dos dias de evolucion caracterizado por cefalea holocraneana, fiebre cuantificada en 38°c, refiere aparicion de los sintomas posterior a la aplicacion de la vacuna Astrazeneca 
+
+Diagnóstico: Fiebre
+
+Destino final: En domicilio con instrucciones 
+
+Medicación / Prescripción médica: ibuprofeno 400 mg ibupirac 400 mg analgesico antiinflam. comp.x 100 Analgésico Antiinflam. 
+
+Reposo: 48 horas
+
+###
+
+Fecha: 2023-04-28
+
+Nota médica: refiere diarrea y vomitos de un dia de evolucion. en beg.hde. se dan pautas de alarma 
+ap no refiere 
+
+Diagnóstico: Gastroenteritis
+
+Destino final: En domicilio con instrucciones 
+
+Tratamiento: hidratacion 
+dieta astringente
+loperamida un comp cada ocho horas 
+reliveran un comp cada ocho horas
+    
+
+Reposo: 24 horas
+
+###

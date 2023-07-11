@@ -1,0 +1,123 @@
+Paciente de 59 años, de sexo Masculino.
+
+###
+
+Fecha: 2022-05-18
+
+Nota médica: Masculino presenta catarro, tos, equivalentes febriles, astenia. Antecedentes patológicos: Linfoma de Hodgkin en la infancia, Cirugía de aorta torácica en 2009 con reemplazo valvular aórtico mecánico y colocación de marcapasos definitivo bicameral. Medicación habitual: valsartan 320mg, warfarina, bisoprolol 5mg, omeprazol 20mg. Niega alergias. 
+
+Diagnóstico: Sospecha COVID-19
+
+Destino final: En domicilio con monitoreo
+
+Motivos de consulta: Sospecha de infección por COVID-19
+
+Tratamiento: Tratamiento sintomático / medidas generales higiénico-dietéticas / pautas de alarma / reposo relativo / control en 72 horas
+
+###
+
+Fecha: 2022-05-23
+
+Nota médica: Paciente refiere que concurrió a guardia de forma presencia hace 3 dias donde lo evaluaron y le diagnosticaron neumonía. Fue medicado con amoxicilina-clavulanico por 7 dias. Se descartó infección por COVID-19 con hisopado  PCR. 
+
+Diagnóstico: Neumonía bacteriana. 
+
+Destino final: En domicilio con instrucciones
+
+Motivos de consulta: Fiebre. Tos. Odinofagia.
+
+Tratamiento: continuar el tratamiento indicado.
+
+Reposo: 48 horas
+
+###
+
+Fecha: 2022-06-23
+
+Nota médica: refiere cuadro clínico de cefalea, sensación febril y mialgia, secundario a aplicación de vacuna anti covid-19. Niega otros síntomas asociados.
+
+Diagnóstico: Gripe
+
+Destino final: En domicilio con instrucciones
+
+Motivos de consulta: Fiebre, cefalea, mialgias. 
+
+Tratamiento: Indico reposo en casa por 24 horas y tratamiento sintomático. 
+
+Reposo: 24 horas
+
+###
+
+Fecha: 2022-08-11
+
+Nota médica: Refiere que tiene marcapasos y prótesis valvular aórtica mecánica. Se encuentra en estudio por bacteriemia. 
+
+Diagnóstico: Fiebre
+
+Destino final: En domicilio con instrucciones
+
+Motivos de consulta: Fiebre en estudio. 
+
+Tratamiento: Reposo de 24 hs.
+
+###
+
+Fecha: 2022-11-18
+
+Nota médica: Refiere cólicos intestinales. Anticoagulado con warfarina por protesis valvular mecánica. 
+
+Diagnóstico: Dolor abdominal
+
+Destino final: En domicilio con instrucciones
+
+Motivos de consulta: Cólicos
+
+Tratamiento: Buscapina compuesta N 1 comprimido cada 8 hs.
+
+###
+
+Fecha: 2022-12-05
+
+Nota médica: Dolor torácico de 1 semana de evolución en clase funcional (CF) II asociado a disnea. Refiere un episodio de dolor de similares características en CF IV que lo despertó hoy por la madrugada. 
+
+Diagnóstico: Dolor torácico. 
+
+Destino final: Indico concurrir a guardia externa.
+
+Motivos de consulta: Angina de pecho 
+
+Tratamiento: Concurrir a guardia externa para evaluación cardiológica urgente. 
+
+Reposo: 72 horas
+
+###
+
+Fecha: 2022-12-21
+
+Nota médica: Internación reciente por insuficiencia cardiaca asociado a dolor torácico. Recibió angioplastia coronaria con 2 stents en arteria coronaria derecha. Se le adicionó como tratamiento clopidogrel 75mg y aspirina 100mg. Consulta por registro de hipertensión arterial en domicilio TA 170/80mmHg. Ayer fue su cumpleaños y tuvo un consumo excesivo de sodio.
+
+Diagnóstico: Hipertensión arterial. 
+
+Destino final: En domicilio con instrucciones
+
+Motivos de consulta: Hipertensión arterial
+
+Tratamiento: Tiene consulta por Cardiólogo de cabecera en una semana. Se indica reposo por 72 horas y amlodipina 5mg. Se dan pautas de alarma. 
+
+Reposo: 72 horas
+
+###
+
+Fecha: 2023-01-20
+
+Nota médica: Consulta por dudas respecto a medicación. Está tomando pantoprazol y omeprazol como protector gástrico, y el resto de la medicación de forma habitual. 
+
+Diagnóstico: Error en la toma de medicación
+
+Destino final: En domicilio con instrucciones
+
+Motivos de consulta: Suspender omeprazol. Continuar con pantoprazol 40mg en ayunas. 
+
+Reposo: No corresponde. 
+
+###
