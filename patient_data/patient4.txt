@@ -1,0 +1,115 @@
+Paciente de 41 años, de sexo Femenino.
+
+Fecha: 2022-09-22
+
+Nota médica: ODINOFAGIA
+
+Diagnóstico: Fiebre
+
+Destino final: En domicilio con instrucciones
+
+Motivos de consulta: Dolor de garganta.odinofagia.Tos.Tiene moco.Sin antecedentes coronarios.no refiere antecedentes respiratorios.no refiere antecedentes renales 
+
+Reposo: 24 horas
+
+###
+
+Fecha: 2022-10-17
+
+Nota médica: paciente refiere que ayer en la noche su perrito de dos meses la mordio en la mano derecha . se indica concurrir a una guardia para revision y envio de atb orales. se da reposo por 24 horas . 
+
+Diagnóstico: Dolor en miembro superior
+
+Destino final: Indico concurrir a guardia externa 
+
+Tratamiento: se indica concurrir a una guardia para revision y envio de atb orales. se da reposo por 24 horas . 
+
+Reposo: 24 horas
+
+###
+
+Fecha: 2023-03-06
+
+Nota médica: Paciente con síndrome gripal, se indican pautas de tratamiento y reposo de 24 horas.
+
+Diagnóstico: Gripe
+
+Destino final: En domicilio con instrucciones
+
+Motivos de consulta: Fiebre.Fiebre o escalofríos.Tos.Tiene moco.Menos de 48 horas. .Sin antecedentes coronarios.no refiere antecedentes respiratorios.no refiere antecedentes renales 
+
+Reposo: 24 horas
+
+###
+
+Fecha: 2023-03-13
+
+Nota médica: DIARREA
+
+Diagnóstico: Diarrea
+
+Destino final: En domicilio con instrucciones
+
+Motivos de consulta: Fiebre.Diarrea.Congestión Nasal.Fiebre o escalofríos.diarrea.Tos.Tiene moco.Menos de 48 horas 
+
+Reposo: 24 horas
+
+###
+
+Fecha: 2023-04-03
+
+Nota médica: Paciente quien refiere que presenta cefalea, congestión nasal, tos, mialgia y malestar general 
+
+Diagnóstico: Gripe
+
+Destino final: En domicilio con instrucciones 
+
+Tratamiento: Se indica tratamiento sintomático hidratación oral abundante pautas de alarma control y seguimiento 
+
+Reposo: 72 horas
+
+###
+
+Fecha: 2023-05-09
+
+Nota médica: PACIENTE FEMENINO DE 41 AÑOS
+APP NIEGA
+NIEGA ALERGIA A MEDICAMENTOS
+CONSULTA POR PRESENTAR CUADRO CLINICO CARACTERIZADO POR CONGESTION NASAL, TOS SECA, DISFONIA, TEMP 38.7
+
+Diagnóstico: Infeccion respiratoria aguda del tracto superior
+
+Destino final: En domicilio con instrucciones
+
+Motivos de consulta: Tos.Fiebre.Congestión Nasal.Tos.Fiebre o escalofríos.odinofagia.cefalea.Tiene moco.Tos seca.Tos aguda 
+
+Medicación / Prescripción médica: acetilcisteína ACEMUK 600 mg tab.efer.x 10 Mucolítico / sodio,cloruro+carragenina NASITRAL spray nasal est. x 10ml Fluidificante de las vías aéreas / desloratadina+betametasona FRENALER CORT comp.rec.x 10 Antialérgico Antiinflamatorio 
+
+Tratamiento: SE INDICAN PAUTAS DE ALARMA
+ABUNDANTES LIQUIDOS
+PARACETAMOL 1 GR CADA 8 HORAS SI DOLOR O FIEBRE >37,5°
+NASITRAL SPRAY APLICAR 2 PULSACIONES CADA 8 HRS POR 5 DIAS
+ACEMUK 600 MG DILUIR EN AGUA Y TOMAR 1 COMP CADA 12 HRS POR 5 DIAS
+FRENALER CORT TOMAR 1 COMP CADA 12 HRS POR 5 DIAS
+NC 10/05/23 SEGUIMIENTO CLINICO (ÜMA CARE). 
+
+Reposo: 24 horas
+
+###
+
+Fecha: 2023-05-15
+
+Nota médica: Paciente de 41 años presenta congestion nasal moco amarillo , dolor en senos frontal. cefalea, astenia,disfonia y tos perruna esto inicia hace 7dias.Afebril .fue medicada con acemuk.
+
+Diagnóstico: Laringitis traqueitis aguda
+
+Destino final: En domicilio con instrucciones
+
+Motivos de consulta: Tos.Dolor de garganta.Dolor de cabeza.Congestión Nasal.Tos.odinofagia.cefalea.Fiebre o escalofríos.Tiene moco.Tos seca 
+
+Tratamiento: corteroid 0.6mg cc 30 ( 1 y2 cada 8hs+3 y4 cada 12hs +5 dia por unica vez)+ amoxicilina-acido clavulanico 1gramo cada 12h s por 
+    7 dias+ mucoltic 150 ml ( 10 ml cada 8hs por 3 dias)+reposo de 72 horas 
+
+Reposo: 72 horas
+
+###
