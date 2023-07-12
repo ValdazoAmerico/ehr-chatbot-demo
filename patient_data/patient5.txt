@@ -4,7 +4,7 @@ Paciente de 59 años, de sexo Masculino.
 
 Fecha: 2022-05-18
 
-Nota médica: Masculino presenta catarro, tos, equivalentes febriles, astenia. Antecedentes patológicos: Linfoma de Hodgkin en la infancia, Cirugía de aorta torácica en 2009 con reemplazo valvular aórtico mecánico y colocación de marcapasos definitivo bicameral. Medicación habitual: valsartan 320mg, warfarina, bisoprolol 5mg, omeprazol 20mg. Niega alergias. 
+Nota médica: Masculino presenta catarro, tos, equivalentes febriles, astenia. Niega exposicion o contacto con paciente con  Antecedentes patológicos: Linfoma de Hodgkin en la infancia, Cirugía de aorta torácica en 2009 con reemplazo valvular aórtico mecánico y colocación de marcapasos definitivo bicameral. Medicación habitual: valsartan 320mg, warfarina, bisoprolol 5mg, omeprazol 20mg. Alergico a los mariscos y a la penicilina. 
 
 Diagnóstico: Sospecha COVID-19
 
@@ -18,7 +18,7 @@ Tratamiento: Tratamiento sintomático / medidas generales higiénico-dietéticas
 
 Fecha: 2022-05-23
 
-Nota médica: Paciente refiere que concurrió a guardia de forma presencia hace 3 dias donde lo evaluaron y le diagnosticaron neumonía. Fue medicado con amoxicilina-clavulanico por 7 dias. Se descartó infección por COVID-19 con hisopado  PCR. 
+Nota médica: Paciente refiere que concurrió a guardia de forma presencial hace 3 dias donde lo evaluaron y le diagnosticaron neumonía. Fue medicado con amoxicilina-clavulanico por 7 dias. Se descartó infección por COVID-19 con hisopado  PCR. 
 
 Diagnóstico: Neumonía bacteriana. 
 
@@ -26,7 +26,7 @@ Destino final: En domicilio con instrucciones
 
 Motivos de consulta: Fiebre. Tos. Odinofagia.
 
-Tratamiento: continuar el tratamiento indicado.
+Tratamiento: continuar el tratamiento indicado y control con medico de cabecera. 
 
 Reposo: 48 horas
 
@@ -34,9 +34,9 @@ Reposo: 48 horas
 
 Fecha: 2022-06-23
 
-Nota médica: refiere cuadro clínico de cefalea, sensación febril y mialgia, secundario a aplicación de vacuna anti covid-19. Niega otros síntomas asociados.
+Nota médica: refiere cuadro clínico de cefalea, sensación febril y mialgia, secundario a aplicación de vacuna anti covid-19 (marca Moderna) hace 24hs. Niega otros síntomas asociados.
 
-Diagnóstico: Gripe
+Diagnóstico: Sindrome pseudo gripal post vacunación
 
 Destino final: En domicilio con instrucciones
 
@@ -50,13 +50,13 @@ Reposo: 24 horas
 
 Fecha: 2022-08-11
 
-Nota médica: Refiere que tiene marcapasos y prótesis valvular aórtica mecánica. Se encuentra en estudio por bacteriemia. 
+Nota médica: Refiere que tiene marcapasos bicameral y prótesis valvular aórtica mecánica. Presenta fiebre nocturna hace 1 semana. No presenta sintomas respiratorios ni gastrointestinales. Dado los antecedentes se indica consulta en guardia para tomar de hemocultivos y descartar foco endovascular. 
 
-Diagnóstico: Fiebre
+Diagnóstico: Sindrome febril
 
-Destino final: En domicilio con instrucciones
+Destino final: Concurrir a guardia externa para evaluación cardiológica urgente.  
 
-Motivos de consulta: Fiebre en estudio. 
+Motivos de consulta: Fiebre
 
 Tratamiento: Reposo de 24 hs.
 
@@ -64,7 +64,7 @@ Tratamiento: Reposo de 24 hs.
 
 Fecha: 2022-11-18
 
-Nota médica: Refiere cólicos intestinales. Anticoagulado con warfarina por protesis valvular mecánica. 
+Nota médica: Refiere cólicos intestinales sin otro sintoma asociado. Anticoagulado con warfarina por protesis valvular mecánica. Antecedente de endocarditis infecciosa protésica tardia, requirió reoperación de urgencia (alta sanatorial hace 10 días)
 
 Diagnóstico: Dolor abdominal
 
@@ -72,7 +72,9 @@ Destino final: En domicilio con instrucciones
 
 Motivos de consulta: Cólicos
 
-Tratamiento: Buscapina compuesta N 1 comprimido cada 8 hs.
+Tratamiento: Buscapina compuesta N 1 comprimido cada 8 hs por 72hs. Pautas de alarma. 
+
+Reposo: 48 horas
 
 ###
 
@@ -86,7 +88,7 @@ Destino final: Indico concurrir a guardia externa.
 
 Motivos de consulta: Angina de pecho 
 
-Tratamiento: Concurrir a guardia externa para evaluación cardiológica urgente. 
+Tratamiento: Concurrir a guardia externa para evaluación cardiológica urgente para descartar angina rapidamente progresiva. 
 
 Reposo: 72 horas
 
@@ -94,7 +96,7 @@ Reposo: 72 horas
 
 Fecha: 2022-12-21
 
-Nota médica: Internación reciente por insuficiencia cardiaca asociado a dolor torácico. Recibió angioplastia coronaria con 2 stents en arteria coronaria derecha. Se le adicionó como tratamiento clopidogrel 75mg y aspirina 100mg. Consulta por registro de hipertensión arterial en domicilio TA 170/80mmHg. Ayer fue su cumpleaños y tuvo un consumo excesivo de sodio.
+Nota médica: Internación reciente por angina inestable en el ICBA, recibió angioplastia coronaria con 2 stents farmacológicos en arteria coronaria derecha, sin complicaciones postprocedimiento. Se le adicionó como tratamiento clopidogrel 75mg y aspirina 100mg. Consulta por registro de hipertensión arterial en domicilio TA 170/80mmHg. Ayer fue su cumpleaños y tuvo un consumo excesivo de sodio.
 
 Diagnóstico: Hipertensión arterial. 
 
@@ -102,7 +104,7 @@ Destino final: En domicilio con instrucciones
 
 Motivos de consulta: Hipertensión arterial
 
-Tratamiento: Tiene consulta por Cardiólogo de cabecera en una semana. Se indica reposo por 72 horas y amlodipina 5mg. Se dan pautas de alarma. 
+Tratamiento: Tiene consulta por cardiólogo de cabecera en una semana. Se indica amlodipina 5mg. Se dan pautas de alarma. 
 
 Reposo: 72 horas
 

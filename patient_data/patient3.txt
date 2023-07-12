@@ -8,9 +8,7 @@ Diagnóstico: Gripe
 
 Destino final: En domicilio con instrucciones 
 
-Tratamiento: manejo sintomatico
-tratamiento antibiotico 
-reposo 24 horas 
+Tratamiento: manejo sintomatico, tratamiento antibiotico, reposo 24 horas.
 
 Reposo: 24 horas
 
@@ -18,13 +16,13 @@ Reposo: 24 horas
 
 Fecha: 2022-04-07
 
-Nota médica: px confirmado covid-19 positivo se realizo hisopado el dia 06/04 comenzo con sintomas el dia sabado 02/04 actualmente continua con fiebre 
+Nota médica: Paciente confirmado COVID-19 positivo se realizo hisopado el dia 06/04 comenzo con sintomas el dia sabado 02/04 actualmente continua con fiebre.
 
 Diagnóstico: COVID19
 
 Destino final: En domicilio con instrucciones 
 
-Tratamiento: se indica tto y reposo 48 hs 
+Tratamiento: se indica tratamiento anbitiotico y reposo 48 hs 
 
 Reposo: 48 horas
 
@@ -32,44 +30,39 @@ Reposo: 48 horas
 
 Fecha: 2022-04-10
 
-Nota médica: 
+Nota médica: Sigue con sintomas respiratorios y saturación de oxígeno de 89%, agregando disnea en las ultimas 12 horas. 
 
-Diagnóstico: COVID19
+Diagnóstico: Probable neumonia por COVID-19
 
-Destino final: En domicilio con instrucciones 
+Destino final: Concurrir a guardia externa.
+
+Tratamiento: Derivación a guardia externa. 
 
 Reposo: 48 horas
 
 ###
 
-Fecha: 2022-04-12
+Fecha: 2022-06-12
 
-Nota médica: MASCULINO 49 AÑOS
-EL FDS CURSO CON COVID19 POSITIVO 
-REFIERE CONGESTION NASAL , CANSANCIO
+Nota médica: Tuvo neumonia por COVID-19, requirió internación en area cerrada con canula de alto flujo e infusión de tocilizumab. Alta hace 1 semana en buenas condiciones fisicas. Le diagnosticaron hipertensión arterial y lo medicaron con valsartan 160mg, pero se olvidaron de darle la receta. Consulta para confección de recetas.
 
-Diagnóstico: COVID19
+Diagnóstico: Confección de recetas
 
-Destino final: En domicilio con instrucciones 
+Destino final: En domicilio con instrucciones.
 
-Tratamiento: ACEMUK 600MG CADA 12H POR 5 DIAS 
-VAPORIZACIONES 
-REPOSO 72 HORAS 
-
-Reposo: 72 horas
+Tratamiento: Valsartan 160mg por dia. Control con cardiólogo de cabecera. 
 
 ###
 
-Fecha: 2022-05-02
+Fecha: 2022-06-18
 
-Nota médica: Paciente refiere tuvo covid19 el 06 de abril cumplio aislamiento por 10, actualmente con cefalea y adinamia post covid19
+Nota médica: Paciente refiere episodio de mareos, constatandose en domicilio TA 80/60mmHg. Niega otros sintomas. Esta tomando la medicación antihipertensiva indicada, sin otra medicación actualmente. 
 
-Diagnóstico: Síntomas psicológicos mentales
+Diagnóstico: Hipotensión farmacológica
 
-Destino final: En domicilio con instrucciones 
+Destino final: En domicilio con instrucciones.
 
-Tratamiento: Paracetamol: 1 gramo cada 8 horas solo si es necesario.
-Valoracion por Neurologia. 
+Tratamiento: Se indica bajar dosis de valsartan a 80mg por dia. Control con cardiólogo de cabecera. 
 
 Reposo: 24 horas
 
@@ -85,47 +78,33 @@ Destino final: En domicilio con instrucciones
 
 Medicación / Prescripción médica: fexofenadina ALLEGRA 120 mg comp.x 10 Antihistamínico 
 
-Tratamiento: REPOSO
-CONTROL CLINICO EN 48 HORAS 
-HIDRATACION CONTINUA
-TAFIROL COMP 1 GR TOMAR CADA 08 HORAS
-FEXOFENADINA COMP 120 MG TOMAR 1 CADA 12 HORAS POR 5 DIAS.
-
-
 Reposo: 48 horas
 
 ###
 
 Fecha: 2022-08-22
 
-Nota médica: Paciente con fiebre, cefalea, congestion nasal. 
+Nota médica: Paciente con episodio de hipertensión arterial en contexto de cefalea que impresiona tensional. TA máxima registrada 170/60mmHg. Actualmente TA 150/60mmHg con tensiómetro digital. Medicado con valsartan 160mg y amlodipina 5mg.
 
-Diagnóstico: Fiebre
+Diagnóstico: Hipertensión arterial.
 
-Destino final: En domicilio con instrucciones 
+Destino final: En domicilio con instrucciones. 
 
-Tratamiento: Tratamiento sintomático y reposo de 48 hs 
+Tratamiento: Control con cardiólogo de cabecera. Medidas higienico-dietéticas. 
 
 ###
 
 Fecha: 2022-09-22
 
-Nota médica: Paciente quien refiere FIS hace 12 horas dado por nauseas vómitos, y actualmente con evacuaciones liquidas, cefalea.
-
-
+Nota médica: El día de ayer tuvo un cumpleaños y al volver presentó episodio de vómitos alimentarios en 3 oportunidades. Actualmente ultimas 6 horas sin nuevos episodios, tolerando vía oral. Está preocupado por la medicación de la presión. 
 
 Diagnóstico: Gastroenteritis
 
-Destino final: En domicilio con instrucciones 
+Destino final: En domicilio con instrucciones.
 
-Tratamiento: Realizar dieta de bajo consumo de azúcares, disminuir el consumo de lácteos, no consumir huevos, pescado, carnes rojas, fiambre, mariscos, no alimentos envasados ni gaseosas.
+Tratamiento: Medidas higienico-dietéticas. Tomar medicación cardiovascular en forma habitual. Se extiende certificado para reposo laboral por 48 horas. 
 
-
-paracetamol 1 gr cada 8 horas por 3 dias.
-
-
-
-Reposo: 24 horas
+Reposo: 48 horas
 
 ###
 
@@ -140,11 +119,11 @@ LEVOFLOXACINA 1 COMP CADA DIA 5 DIAS (ANTIBIOTICO)
 FENAZOPIRIDINA 1 COMP CADA 12H POR 5 DIAS (ANALGESICO)
 LIQUIDOS
 
-Diagnóstico: Prostatitis
+Diagnóstico: Probable prostatitis
 
-Destino final: En domicilio con instrucciones 
+Destino final: En domicilio con instrucciones.
 
-Medicación / Prescripción médica: cefalexina SINURIT 1000 mg comp.rec.x 16 Antibiótico / fenazopiridina CISTALGINA 200 mg comp.rec.x 10 Analgésico urinario 
+Medicación / Prescripción médica: cefalexina SINURIT 1000 mg comp.rec.x 16 Antibiótico / fenazopiridina CISTALGINA 200 mg comp.rec.x 10 Analgésico urinario. Se indica control con urología en caso de persistir con sintomatología. 
 
 Tratamiento: CEFALEXINA 1 COMP CADA 12H POR 7 DIAS
 CISTALGINA 1 COMP CADA 12H POR 5 DIAS 
@@ -155,15 +134,16 @@ Reposo: 48 horas
 
 Fecha: 2022-09-28
 
-Nota médica: Paciente refiere comenzo el 25/09 disuria polaquiuria medicado con ATB continua con sintomas control 
+Nota médica: Paciente refiere comenzo el 25/09 disuria polaquiuria medicado con ATB continua con sintomas. Consulta para control.
 
 Diagnóstico: Infección urinaria
 
 Destino final: En domicilio con instrucciones 
 
 Tratamiento: Cefalexina Duo 1 c /12 hs 
-hidratacion abundante 
-Cistalgina 
+Hidratacion abundante 
+Cistalgina (analgésico de vía urinaria)
+Control con urología ya que se trata de un paciente masculino con infección urinaria. 
 
 Reposo: 48 horas
 
