@@ -1,42 +1,60 @@
-Paciente de 41 años, de sexo Femenino.
+Paciente de 41 años de sexo femenino.
 
 Fecha: 2022-09-22
 
-Nota médica: ODINOFAGIA
+Nota médica: Antecedentes de hernia hiatal y reflujo gastroesofágico. Medicada con omeprazol 20mg y anticonceptivos orales. Refiere cuadro de odinofagia, tos y expectoración mucopurulenta de 72 horas de evolución sin otros sintomas asociados. Tiene un hijo de 10 años que tuvo faringitis estreptoccócica hace 1 semana. 
 
-Diagnóstico: Fiebre
+Diagnóstico: Faringitis
 
-Destino final: En domicilio con instrucciones
+Destino final: En domicilio con instrucciones.
 
-Motivos de consulta: Dolor de garganta.odinofagia.Tos.Tiene moco.Sin antecedentes coronarios.no refiere antecedentes respiratorios.no refiere antecedentes renales 
+Motivos de consulta: Faringitis
+
+Tratamiento: Reposo y pautas de alara. 
 
 Reposo: 24 horas
 
 ###
 
-Fecha: 2022-10-17
+Fecha: 2022-09-25
 
-Nota médica: paciente refiere que ayer en la noche su perrito de dos meses la mordio en la mano derecha . se indica concurrir a una guardia para revision y envio de atb orales. se da reposo por 24 horas . 
+Nota médica: Persiste con sintomatología y agrega fiebre de 38.5 grados. En contexto de antecedente de faringitis estreptoccócica del hijo reciente se indica realizar streptest en guardia más cercana para definir inicio de antibioticoterapia. 
 
-Diagnóstico: Dolor en miembro superior
+Diagnóstico: Faringitis
 
 Destino final: Indico concurrir a guardia externa 
 
-Tratamiento: se indica concurrir a una guardia para revision y envio de atb orales. se da reposo por 24 horas . 
+Tratamiento: Se indica concurrir a guardiar externa para realizar streptest y evaluar inicio de penicilina via oral. 
 
 Reposo: 24 horas
 
 ###
 
-Fecha: 2023-03-06
+Fecha: 2022-10-25
 
-Nota médica: Paciente con síndrome gripal, se indican pautas de tratamiento y reposo de 24 horas.
+Nota médica: Tuve faringitis estreptoccócica hace 1 mes, cumplió tratamiento con penicilina. Consulta por recurrencia de la sintomatología. 
 
-Diagnóstico: Gripe
+Diagnóstico: Faringitis recurrente. 
 
-Destino final: En domicilio con instrucciones
+Destino final: En domicilio con instrucciones.
 
-Motivos de consulta: Fiebre.Fiebre o escalofríos.Tos.Tiene moco.Menos de 48 horas. .Sin antecedentes coronarios.no refiere antecedentes respiratorios.no refiere antecedentes renales 
+Tratamiento: Penicilina via oral y control. 
+
+Reposo: 24 horas
+
+###
+
+Fecha: 2023-01-06
+
+Nota médica: Paciente con odinofagia, tos y expectoración. Tuvo 2 infecciones previas por faringitis estreptocócica. 
+
+Diagnóstico: Faringitis
+
+Destino final: En domicilio con instrucciones. 
+
+Motivos de consulta: Odinofagia.
+
+Tratamiento: Se indica inicio de antibioticoterapia con mismo esquema y consulta con otorrinolaringología por presentar faringitis recurrente. 
 
 Reposo: 24 horas
 
@@ -44,13 +62,13 @@ Reposo: 24 horas
 
 Fecha: 2023-03-13
 
-Nota médica: DIARREA
+Nota médica: Paciente de 42 años, fue su cumpleaños hace 3 dias y desde entonces presenta diarrea de 72 horas de evolución, niega fiebre, moco, pus o sangre en las deposiciones. Antecedente de relevancia: Cirugía amigdalina reciente por faringitis recurrente (terminó antibioticoterapia con amoxicilina-clavulánico hace 1 semana)
 
-Diagnóstico: Diarrea
+Diagnóstico: Diarrea aguda
 
-Destino final: En domicilio con instrucciones
+Destino final: En domicilio con instrucciones.
 
-Motivos de consulta: Fiebre.Diarrea.Congestión Nasal.Fiebre o escalofríos.diarrea.Tos.Tiene moco.Menos de 48 horas 
+Motivos de consulta: Diarrea
 
 Reposo: 24 horas
 
@@ -58,13 +76,13 @@ Reposo: 24 horas
 
 Fecha: 2023-04-03
 
-Nota médica: Paciente quien refiere que presenta cefalea, congestión nasal, tos, mialgia y malestar general 
+Nota médica: Paciente con cefalea hemicraneana de 24 horas de evolución que cede parcialmente con analgésicos. 
 
-Diagnóstico: Gripe
+Diagnóstico: Cefalea
 
-Destino final: En domicilio con instrucciones 
+Destino final: En domicilio con instrucciones.
 
-Tratamiento: Se indica tratamiento sintomático hidratación oral abundante pautas de alarma control y seguimiento 
+Tratamiento: Se indica tratamiento sintomático y control con médico de cabecera,. 
 
 Reposo: 72 horas
 
@@ -72,18 +90,13 @@ Reposo: 72 horas
 
 Fecha: 2023-05-09
 
-Nota médica: PACIENTE FEMENINO DE 41 AÑOS
-APP NIEGA
-NIEGA ALERGIA A MEDICAMENTOS
-CONSULTA POR PRESENTAR CUADRO CLINICO CARACTERIZADO POR CONGESTION NASAL, TOS SECA, DISFONIA, TEMP 38.7
+Nota médica: CONSULTA POR PRESENTAR CUADRO CLINICO CARACTERIZADO POR CONGESTION NASAL, TOS SECA, DISFONIA, FIEBRE 38.7
 
-Diagnóstico: Infeccion respiratoria aguda del tracto superior
+Diagnóstico: Infección respiratoria aguda del tracto superior
 
 Destino final: En domicilio con instrucciones
 
-Motivos de consulta: Tos.Fiebre.Congestión Nasal.Tos.Fiebre o escalofríos.odinofagia.cefalea.Tiene moco.Tos seca.Tos aguda 
-
-Medicación / Prescripción médica: acetilcisteína ACEMUK 600 mg tab.efer.x 10 Mucolítico / sodio,cloruro+carragenina NASITRAL spray nasal est. x 10ml Fluidificante de las vías aéreas / desloratadina+betametasona FRENALER CORT comp.rec.x 10 Antialérgico Antiinflamatorio 
+Motivos de consulta: Infección respiratoria aguda del tracto superior
 
 Tratamiento: SE INDICAN PAUTAS DE ALARMA
 ABUNDANTES LIQUIDOS
@@ -91,7 +104,6 @@ PARACETAMOL 1 GR CADA 8 HORAS SI DOLOR O FIEBRE >37,5°
 NASITRAL SPRAY APLICAR 2 PULSACIONES CADA 8 HRS POR 5 DIAS
 ACEMUK 600 MG DILUIR EN AGUA Y TOMAR 1 COMP CADA 12 HRS POR 5 DIAS
 FRENALER CORT TOMAR 1 COMP CADA 12 HRS POR 5 DIAS
-NC 10/05/23 SEGUIMIENTO CLINICO (ÜMA CARE). 
 
 Reposo: 24 horas
 
@@ -99,16 +111,15 @@ Reposo: 24 horas
 
 Fecha: 2023-05-15
 
-Nota médica: Paciente de 41 años presenta congestion nasal moco amarillo , dolor en senos frontal. cefalea, astenia,disfonia y tos perruna esto inicia hace 7dias.Afebril .fue medicada con acemuk.
+Nota médica: Paciente de 41 años presenta disfonia y tos seca de 5 días de evolución. Afebril en las últimas 72 horas. En la consulta previa hace 6 días se le indicó tratamiento sintomático, no tuvo una respuesta adecuada. 
 
-Diagnóstico: Laringitis traqueitis aguda
+Diagnóstico: Laringitis aguda
 
 Destino final: En domicilio con instrucciones
 
-Motivos de consulta: Tos.Dolor de garganta.Dolor de cabeza.Congestión Nasal.Tos.odinofagia.cefalea.Fiebre o escalofríos.Tiene moco.Tos seca 
+Motivos de consulta: Tos persistente
 
-Tratamiento: corteroid 0.6mg cc 30 ( 1 y2 cada 8hs+3 y4 cada 12hs +5 dia por unica vez)+ amoxicilina-acido clavulanico 1gramo cada 12h s por 
-    7 dias+ mucoltic 150 ml ( 10 ml cada 8hs por 3 dias)+reposo de 72 horas 
+Tratamiento: Betametasona 0.6mg, 30 gotas (día 1 y 2 cada 8hs, día 3 y 4 cada 12hs, día 5 por unica vez) + amoxicilina-acido clavulanico 1 gramo cada 12hs por 7 dias + mucolitico + reposo de 72 horas 
 
 Reposo: 72 horas
 
